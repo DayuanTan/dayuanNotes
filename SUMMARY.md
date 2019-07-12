@@ -10,4 +10,5 @@
 
 * [Zsh autosuggestion bindkey](linux-unix/zsh-autosuggestion-bindkey.md)
 * [how to use variable in xargs](linux-unix/how-to-use-variable-in-xargs.md)
+* [use Find to find all files ending with .sh and do one more thing](linux-unix/use-find-to-find-all-files-ending-with-.sh-and-do-one-more-thing.md)
 
