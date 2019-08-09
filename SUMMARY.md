@@ -1,6 +1,6 @@
 # Table of contents
 
-* [本地的github repo如何和远程的repo关联](README.md)
+* [Dayuan's Notes](README.md)
 
 ## SUMO
 
