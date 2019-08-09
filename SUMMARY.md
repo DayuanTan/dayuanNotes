@@ -14,5 +14,5 @@
 
 ## Github
 
-* [本地的github repo如何和远程的repo关联](github/untitled.md)
+* [how connect local GitHub repo to remote repo](github/untitled.md)
 
