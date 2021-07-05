@@ -16,3 +16,11 @@
 
 * [How connect local GitHub repo to remote repo](github/untitled.md)
 
+## MyLife
+
+* [从《鲁豫有约》到《大咖一日行》](mylife/cong-lu-yu-you-yue-dao-da-ga-yi-ri-hang.md)
+
+---
+
+* [变换的社交软件和我们的朋友](bian-huan-de-she-jiao-ruan-jian-he-wo-men-de-peng-you.md)
+
