@@ -2,7 +2,7 @@
 description: '如何在xargs中使用变量{}'
 ---
 
-# how to use variable in xargs
+# How to use variable in xargs
 
 ```text
 $ ls

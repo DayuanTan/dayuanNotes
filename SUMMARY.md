@@ -9,10 +9,10 @@
 ## Linux/Unix
 
 * [Zsh autosuggestion bindkey](linux-unix/zsh-autosuggestion-bindkey.md)
-* [how to use variable in xargs](linux-unix/how-to-use-variable-in-xargs.md)
-* [use Find to find all files ending with .sh and do one more thing](linux-unix/use-find-to-find-all-files-ending-with-.sh-and-do-one-more-thing.md)
+* [How to use variable in xargs](linux-unix/how-to-use-variable-in-xargs.md)
+* [Use Find to find all files ending with .sh and do one more thing](linux-unix/use-find-to-find-all-files-ending-with-.sh-and-do-one-more-thing.md)
 
 ## Github
 
-* [how connect local GitHub repo to remote repo](github/untitled.md)
+* [How connect local GitHub repo to remote repo](github/untitled.md)
 

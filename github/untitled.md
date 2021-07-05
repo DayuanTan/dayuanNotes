@@ -1,4 +1,4 @@
-# how connect local GitHub repo to remote repo
+# How connect local GitHub repo to remote repo
 
 ## 本地的github repo如何和远程的repo关联
 

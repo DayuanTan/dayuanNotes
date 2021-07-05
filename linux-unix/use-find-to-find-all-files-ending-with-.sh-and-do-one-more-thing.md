@@ -2,7 +2,7 @@
 description: Find 找到目录下所有.sh结尾文件并ll
 ---
 
-# use Find to find all files ending with .sh and do one more thing
+# Use Find to find all files ending with .sh and do one more thing
 
 **find . -name '\*.sh' \| xargs -n 1 ls -la**
 
