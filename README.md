@@ -10,5 +10,5 @@ Here is where I record some problems and solutions I meet, which I think it's wo
 
 &lt;-- Check all notes by clicking the titles on the left section.
 
-## Please check the **content** of my nodes [**here**](https://github.com/DayuanTan/dayuanNotes/blob/master/SUMMARY.md).
+## 
 
