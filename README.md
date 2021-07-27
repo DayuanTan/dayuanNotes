@@ -10,5 +10,5 @@ Here is where I record some problems and solutions I meet, which I think it's wo
 
 &lt;-- Check all notes by clicking the titles on the left section.
 
-Link of current page: [https://dayuannotes.gitbook.io/dayuannotes/](https://dayuannotes.gitbook.io/dayuannotes/)
+Link of current GitBook page: [https://dayuannotes.gitbook.io/dayuannotes/](https://dayuannotes.gitbook.io/dayuannotes/)
 
