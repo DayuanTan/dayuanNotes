@@ -12,3 +12,5 @@ Here is where I record some problems and solutions I meet, which I think it's wo
 
 Link of current GitBook page: [https://dayuannotes.gitbook.io/dayuannotes/](https://dayuannotes.gitbook.io/dayuannotes/)
 
+Link to my Home Page: [https://dayuantan.github.io/AboutMe/](https://dayuantan.github.io/AboutMe/)
+
