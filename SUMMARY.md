@@ -14,7 +14,8 @@
 
 ## Github
 
-* [How connect local GitHub repo to remote repo](github/untitled.md)
+* [How connect local GitHub repo to remote repo](github/How_connect_local_GitHub_repo_to_remote_repo.md.md)
+* [How to change your remote repo url/name on local](github/20210727_how_to_change_remote_repo_url.md)
 
 ## MyLife
 
