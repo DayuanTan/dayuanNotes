@@ -1,10 +1,9 @@
-# How connect local GitHub repo to remote repo
+# How connect local GitHub repo to remote repo 
+(It's OK when you local and remote have different codes already)
 
 ## 本地的github repo如何和远程的repo关联
 
-首先，远程可能已经建立了一个repo， 
-
-比如[https://github.com/DayuanTan/CrackCodeInterviewAndLeetcode.git](https://github.com/DayuanTan/CrackCodeInterviewAndLeetcode.git)
+首先，远程可能已经建立了一个repo， 比如[https://github.com/DayuanTan/CrackCodeInterviewAndLeetcode.git](https://github.com/DayuanTan/CrackCodeInterviewAndLeetcode.git)
 
 Maybe you readly have one repo like this [https://github.com/DayuanTan/CrackCodeInterviewAndLeetcode.git](https://github.com/DayuanTan/CrackCodeInterviewAndLeetcode.git)
 
@@ -20,7 +19,7 @@ Then do following in your directory of your code which you want upload to that r
 `$ git pull` 会提示设置。\(It will prompt to ask you do following:\)
 
   
-`$ git pull origin master`
+`$ git pull origin master` or `$ git pull origin main`
 
   
 就好了。此时会发现远程的代码被下载到本地，和本地的在一起。后面提交本地更改。
