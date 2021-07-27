@@ -1,5 +1,5 @@
 ---
-description: Just for recording some problems I meet or some interesting Notes.
+description: Record some problems I meet and how I resolve them, and some interesting Notes.
 ---
 
 # Dayuan's Notes
